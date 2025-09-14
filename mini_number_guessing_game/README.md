@@ -30,14 +30,15 @@ It gives hints if your guess is **too high** or **too low** and counts the numbe
 
 ---
 📝 Example Gameplay
-Guess the number: 25
-Your guess is wrong
-Your guess is 10 large
 
-Guess the number: 15
-Your guess is wrong
-Your guess is 5 small
+-Guess the number: 25
+-Your guess is wrong
+-Your guess is 10 large
 
-Guess the number: 20
-Your guess is right
-Total attempt: 3
+-Guess the number: 15
+-Your guess is wrong
+-Your guess is 5 small
+
+-Guess the number: 20
+-Your guess is right
+-Total attempt: 3
